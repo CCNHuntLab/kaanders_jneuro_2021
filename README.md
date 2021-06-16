@@ -10,7 +10,7 @@ All code required to reproduce behavioral results and plots presented in the pap
 
 All behavioral data with descriptions of the variables is under `./data`
 - Data is in a single csv file: `behavioral_data.csv`
-- Variable names with descriptions can be found in `variable_definitions.doc`
+- Variable names with descriptions can be found in `variable_definitions.docx`
 
 ## Task
 
